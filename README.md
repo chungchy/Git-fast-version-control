@@ -18,5 +18,9 @@
 ![스크린샷, 2021-01-17 09-47-45](https://user-images.githubusercontent.com/53849793/112794747-59c33880-90a2-11eb-8efa-340709221176.png)
 
 ## 저장소 위치
-* **Modified** : 수정한 파일을 아직 로컬 데이터베이스에 커밋하지 않은 것을 의미
-* **Staged** : 현재 수정한 파일을 곧 커밋할 것이라고 표시한 상태를 의미
+* **원격 저장소(Remote Repository)** : 파일이 원격 저장소 전용 서버에서 관리되며 여러 사람이 함께 공유
+* **로컬 저장소(Local Repository)** : 내 PC에 파일이 저장되는 개인 전용 저장소
+ 
+## Staging Area
+
+![image](https://user-images.githubusercontent.com/53849793/112796455-f2f34e80-90a4-11eb-9a47-4b1417652189.png)
