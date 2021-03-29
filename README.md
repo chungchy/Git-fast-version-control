@@ -14,9 +14,10 @@
 
 ![스크린샷 2021-03-29 오후 4 54 44](https://user-images.githubusercontent.com/53849793/112804561-86318180-90af-11eb-9835-5663c530a9c3.png)
 
-## 3.버전 관리 용이
+## 3. 버전 관리 용이
 
 ![스크린샷, 2021-01-17 09-47-45](https://user-images.githubusercontent.com/53849793/112794747-59c33880-90a2-11eb-8efa-340709221176.png)
+![112794747-59c33880-90a2-11eb-8efa-340709221176](https://user-images.githubusercontent.com/53849793/112806574-e32e3700-90b1-11eb-8bd8-eb51d2e9ee51.png)
 
 
 
