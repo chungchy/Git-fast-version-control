@@ -52,8 +52,8 @@ Git은 파일을 세 가지 상태로 관리한다.
 사용자 이름과 이메일 주소를 설정하는 것이다. Git은 커밋할 때마다 이 정보를 사용한다. 한 번 커밋한 후에는 정보를 변경할 수 없다.
 
 ```shell
-$ git config --global user.name "Sangming Lee"
-$ git config --global user.email "nalsm0518@gmail.com"
+$ git config --global user.name "internationalchungchy"
+$ git config --global user.email "internationalchungchy@gmail.com"
 ```
 
 <br>
