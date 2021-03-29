@@ -3,15 +3,18 @@
 ![gitgithub](https://user-images.githubusercontent.com/53849793/112778449-8ade4180-907f-11eb-9d75-9d6df5984de9.png)
 
 # git 사용하게 된 이유
-## 트랜드
-* **트랜드** : 
-<br> 오픈소스
+## 1. 트랜드 
+* **most commonly used** 
+* **free, open source** 
+* **lightning fast**
+* **work offine**
+* **easy and fast branching/merging**
 
-## 협업 관리 도구
+## 2. 협업 관리 도구
 
 ![스크린샷 2021-03-29 오후 4 54 44](https://user-images.githubusercontent.com/53849793/112804561-86318180-90af-11eb-9835-5663c530a9c3.png)
 
-## 버전 관리 용이
+## 3.버전 관리 용이
 
 ![스크린샷, 2021-01-17 09-47-45](https://user-images.githubusercontent.com/53849793/112794747-59c33880-90a2-11eb-8efa-340709221176.png)
 
