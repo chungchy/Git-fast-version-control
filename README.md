@@ -24,3 +24,11 @@
 ## Staging Area
 
 ![image](https://user-images.githubusercontent.com/53849793/112796455-f2f34e80-90a4-11eb-9a47-4b1417652189.png)
+
+## 스냅샷
+
+Git은 데이터를 파일 시스템 스냅샷의 연속으로 취급하고 크기가 아주 작다. Git은 프로젝트의 상태를 저장할 때마다 파일이 존재하는 그 순간을 중요하게 여긴다.
+
+<img src="https://git-scm.com/book/en/v2/images/snapshots.png">
+
+## Branch
