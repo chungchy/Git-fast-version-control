@@ -63,8 +63,8 @@ $ git config --global user.email "internationalchungchy@gmail.com"
 ```shell
 $ git config --list
 credential.helper=osxkeychain
-user.email=nalsm98@naver.com
-user.name=sangminLee
+user.email=chungchy@chungchy.com
+user.name=chungchy
 ...
 ```
 
