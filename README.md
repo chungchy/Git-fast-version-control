@@ -1,4 +1,3 @@
-![스크린샷, 2021-01-17 09-47-45](https://user-images.githubusercontent.com/53849793/112794738-54fe8480-90a2-11eb-845e-7b75ac46a1bd.png)
 # Git
 * [Git](Git.md) : 코드 버전 관리 프로그램 
 ![gitgithub](https://user-images.githubusercontent.com/53849793/112778449-8ade4180-907f-11eb-9d75-9d6df5984de9.png)
