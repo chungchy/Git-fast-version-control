@@ -7,7 +7,7 @@
 * **most commonly used** 
 * **free, open source** 
 * **lightning fast**
-* **work offine**
+* **work offline**
 * **easy and fast branching/merging**
 
 ## 2. 협업 관리 도구
