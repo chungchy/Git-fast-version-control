@@ -53,6 +53,21 @@ Git은 데이터를 파일 시스템 스냅샷의 연속으로 취급하고 크�
 
 # 앱파트에서 사용한 git 플로우
 
-브랜치 생성 
+![무제 002](https://user-images.githubusercontent.com/53849793/112917727-41086080-913e-11eb-8c7a-59fead60230c.jpeg)
+> Development 브랜치 생성
+
+![무제 003](https://user-images.githubusercontent.com/53849793/112917780-5a111180-913e-11eb-8a46-c25b808b4375.jpeg)
+> 각 feature 브랜치 생성
+
+![무제 004](https://user-images.githubusercontent.com/53849793/112919032-2daac480-9141-11eb-8ded-c5d7dc0a83f0.jpeg)
+> 각 feature 브랜치에서 개발 후 커밋
+
+![무제 005](https://user-images.githubusercontent.com/53849793/112919049-37342c80-9141-11eb-9a23-001a24bc0b47.jpeg)
+> Development 브랜치에 머지
+
+Anchor 브랜치 https://github.com/chungchy/Android_AnchorEnglish/pulls
 
 # git 도입 후 변화
+## 1. 소스관리
+* **코드리뷰**
+* **클린코드**
