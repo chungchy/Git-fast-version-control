@@ -66,6 +66,7 @@ Anchor 브랜치 https://github.com/chungchy/Android_AnchorEnglish/branches/acti
 <br>
 
 # git 도입 후 변화
-## 1. 소스관리
-* **코드리뷰**
-* **클린코드**
+* **소스 관리**
+* **코드 리뷰**
+* **클린 코드**
+* **버전 관리**
