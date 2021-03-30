@@ -61,7 +61,7 @@ Git은 데이터를 파일 시스템 스냅샷의 연속으로 취급하고 크�
 ![무제 005](https://user-images.githubusercontent.com/53849793/112919049-37342c80-9141-11eb-9a23-001a24bc0b47.jpeg)
 > Development 브랜치에 머지
 
-Anchor 브랜치 https://github.com/chungchy/Android_AnchorEnglish/pulls
+Anchor 브랜치 https://github.com/chungchy/Android_AnchorEnglish/branches/active
 
 <br>
 
